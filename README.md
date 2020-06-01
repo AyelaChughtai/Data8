@@ -1,4 +1,4 @@
-# Data8
+# Data8: Introduction to Data Science
 
 # Homeworks
 
@@ -50,8 +50,8 @@ Lab10: Conditional Probability
 
 # Projects
 
-Project1: World Progress
+Project1: World Progress (Exploring data from Gapminder.org, e.g. for poverty or population.)
 
-Project2: Diet and Disease
+Project2: Diet and Disease (Investigating the major causes of death in the world and the relationship between diet and heart disease.)
 
-Project3: Classification
+Project3: Classification (A k-nearest-neighbours classifier that guesses whether a movie is romance or action using only the numbers of times words appear in the movie's screenplay.)
